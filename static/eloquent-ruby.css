@@ -1,0 +1,11 @@
+blockquote{
+    line-height: 150%;
+}
+
+h2{
+    font-style: italic;
+}
+
+.review{
+    background-color: lightgray;
+}

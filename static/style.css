@@ -1,0 +1,27 @@
+header, footer{
+    background-color: whitesmoke;
+    border: black solid 1px;
+}
+
+body{
+    background-color: antiquewhite;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color: blueviolet;
+}
+h2{
+    color: orchid;
+}
+
+a{
+    text-decoration: none
+}
+
+a:hover{
+    color: purple;
+}
+
+ul{
+    list-style-type: none;
+}
